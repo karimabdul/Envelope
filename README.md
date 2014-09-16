@@ -3,4 +3,4 @@ Envelope
 
 Envelope is a table based responsive email template.
 
-Feel free to use it for any projects, personal or commercial.
+Feel free to use it in any projects, personal or commercial.
